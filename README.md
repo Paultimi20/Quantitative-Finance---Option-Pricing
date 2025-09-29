@@ -2,7 +2,8 @@
 
 ## Summary
 This study investigates the pricing and risk characteristics of binary options written on Binance Coin (BNB-USD), a leading cryptocurrency. Using daily historical price data between June 24, 2021 and June 24, 2022, the project applies descriptive statistics, visualizations to explain the log returns and volatility of the market. The option pricing was carried out with three methods: the Binomial Tree model, Monte Carlo simulation, and the Black–Scholes formula. In addition, the analysis extends to option Greeks, providing insight into the sensitivities of option prices to market variables. Results confirm the highly volatile nature of cryptocurrency assets and the limitations of applying traditional pricing models without modification. The findings offer investors guidance on risk exposure and highlight the importance of advanced modeling approaches for crypto derivatives.
-
+---
+**Full Report**: See `BNB_Binary_Options_Report.pdf` for detailed methodology, analysis, and references.
 ## Data Source
 - Asset: Binance Coin (BNB-USD)
 - Period: June 24, 2021 – June 24, 2022
@@ -45,5 +46,4 @@ This study investigates the pricing and risk characteristics of binary options w
 - Volatility effects are unconventional (negative Vega), requiring careful interpretation.
 - Investors should apply multiple pricing models and stress-test volatility to avoid overreliance on any single framework.
 
----
-**Full Report**: See `BNB_Binary_Options_Report.pdf` for detailed methodology, analysis, and references.
+
