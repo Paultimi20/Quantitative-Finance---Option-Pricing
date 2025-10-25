@@ -49,4 +49,4 @@ This study investigates the pricing and risk characteristics of binary options w
 - Investors should apply multiple pricing models and stress-test volatility to avoid overreliance on any single framework.
 
 ---
-**Download Full Report**:  `[BNB_Binary_Options_Report.pdf](https://github.com/Paultimi20/Quantitative-Finance---Option-Pricing/blob/main/BNB_Binary_Options_Report.pdf)`
+**Download Extensive report with Explained formulas and 3D charts**:  [`BNB_Binary_Options_Report.pdf`](https://github.com/Paultimi20/Quantitative-Finance---Option-Pricing/blob/main/BNB_Binary_Options_Report.pdf)
