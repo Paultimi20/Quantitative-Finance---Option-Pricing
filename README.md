@@ -43,12 +43,10 @@ This study investigates the pricing and risk characteristics of binary options w
 - The Binomial Tree was useful but computationally intensive for large steps.
 - Greeks show that **Theta (time decay)** and **Vega (volatility sensitivity)** dominate risks. Delta and Gamma were minimal at the chosen strike and maturity.
 
----
-**Download Full Report**:  `BNB_Binary_Options_Report.pdf`
-
 ## Recommendations
 - Binary options on BNB should be used tactically for short-term bets, not long-term hedges, due to rapid time decay.
 - Volatility effects are unconventional (negative Vega), requiring careful interpretation.
 - Investors should apply multiple pricing models and stress-test volatility to avoid overreliance on any single framework.
 
-
+---
+**Download Full Report**:  `BNB_Binary_Options_Report.pdf`
